@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense Chapter 19 Final", "Assembly-CSharp.csproj", "{0017A692-B283-733C-9173-07568B284C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense Chapter 19 Final", "Oculus.VR.csproj", "{862968B2-C785-BFC1-3257-0752FC51CB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense Chapter 19 Final", "Oculus.VR.Scripts.Editor.csproj", "{E581031B-196F-9CDE-4BAD-5B10FBD837D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense Chapter 19 Final", "Oculus.VR.Editor.csproj", "{501B050B-D4D2-D051-682C-6E02E61BCB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower Defense Chapter 19 Final", "Assembly-CSharp-Editor.csproj", "{11AC4144-1672-CD4C-D0DA-4004BF6124F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0017A692-B283-733C-9173-07568B284C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0017A692-B283-733C-9173-07568B284C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0017A692-B283-733C-9173-07568B284C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0017A692-B283-733C-9173-07568B284C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862968B2-C785-BFC1-3257-0752FC51CB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862968B2-C785-BFC1-3257-0752FC51CB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862968B2-C785-BFC1-3257-0752FC51CB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862968B2-C785-BFC1-3257-0752FC51CB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E581031B-196F-9CDE-4BAD-5B10FBD837D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E581031B-196F-9CDE-4BAD-5B10FBD837D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E581031B-196F-9CDE-4BAD-5B10FBD837D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E581031B-196F-9CDE-4BAD-5B10FBD837D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501B050B-D4D2-D051-682C-6E02E61BCB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501B050B-D4D2-D051-682C-6E02E61BCB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501B050B-D4D2-D051-682C-6E02E61BCB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501B050B-D4D2-D051-682C-6E02E61BCB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AC4144-1672-CD4C-D0DA-4004BF6124F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AC4144-1672-CD4C-D0DA-4004BF6124F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AC4144-1672-CD4C-D0DA-4004BF6124F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AC4144-1672-CD4C-D0DA-4004BF6124F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
